@@ -13,9 +13,9 @@ Fuel client implementation.
 
 | Network  | Version |
 |----------|---------|
-| Fuel Ignition | 0.46.0 |
-| Testnet | 0.46.0 |
-| Devnet | 0.46.0 |
+| Fuel Ignition | 0.48.2 |
+| Testnet | 0.48.2 |
+| Devnet |  |
 
 ## Contributing
 
